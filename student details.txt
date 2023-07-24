@@ -1,0 +1,15 @@
+RAINBOW SCHOOL
+
+STUDENT DETAILS
+
+S.NO   NAME             CLASS         SECTION      GRADE
+
+1      Arav              12             O            O
+
+2      Simbu             11              A+           A+
+
+3      Deepak            11              A           A
+
+4      Ishu              12              A+          O
+
+5      Pooja            12              A           A+
